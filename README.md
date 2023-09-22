@@ -20,7 +20,7 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 <!-- Section Projets avec emojis -->
 ## 🔥 Projets Récents
-### [Fictionnal Restaurant](https://github.com/chebilax/FictionalRestaurant)
+### [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant)
 - Restaurant fictif avec back-office (gestion de commandes et de réservations)
 
 Technologies : PHP & Javascript
