@@ -9,8 +9,8 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 <!-- Badges avec emojis (facultatif) -->
 [![Linkedin Badge](https://img.shields.io/badge/-xchebila-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xchebila/)](https://www.linkedin.com/in/xchebila/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-chebilax.github.io/portfolio/-black)](https://chebilax.github.io/portfolio/)
-[![GitHub Follow](https://img.shields.io/github/followers/chebilax?style=social&label=Follow)](https://github.com/chebilax)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-xchebila.github.io/portfolio/-black)](https://xchebila.github.io/portfolio/)
+[![GitHub Follow](https://img.shields.io/github/followers/xchebila?style=social&label=Follow)](https://github.com/xchebila)
 
 <!-- Section Compétences avec emojis -->
 ## 🚀 Compétences
@@ -28,8 +28,8 @@ Technologies : PHP & Javascript
 BDD : MYSQL
 
 ### Mini jeux
-- [Dragon Knight](https://github.com/chebilax/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://chebilax.github.io/Dragon-Knight/)
-- [Rocket](https://github.com/chebilax/rocket) : décollage d'une fusée - [essayer](https://chebilax.github.io/rocket/)
+- [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
+- [Rocket](https://github.com/xchebila/rocket) : décollage d'une fusée - [essayer](https://xchebila.github.io/rocket/)
   
 Technologies : Javascript
 
