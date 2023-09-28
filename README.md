@@ -7,7 +7,7 @@ Je suis actuellement √©tudiant en Master of Science Pro - Architecte logiciel d√
 Pour plus d'infos sur la formation, le [Kit d'Alternance](https://eparcours.eu/epitech-pre-msc-msc-221/) est disponible ici :
 https://eparcours.eu/epitech-pre-msc-msc-221/
 
-Vous pouvez retrouver mon [Portfolio] (https://xchebila.github.io/portfolio/) ici :
+Vous pouvez retrouver mon [Portfolio](https://xchebila.github.io/portfolio/) ici :
 https://xchebila.github.io/portfolio/
 
 <!-- Badges avec emojis (facultatif) -->
