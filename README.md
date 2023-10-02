@@ -2,7 +2,7 @@
 # 👋 Bonjour, je suis Xiam
 
 <!-- Introduction avec emojis -->
-Je suis actuellement étudiant en Master of Science Pro - Architecte logiciel développeur d'application à [Epitech](https://www.epitech.eu/) 🎓, et je suis à la recherche d'une alternance passionnante dans le domaine du développement logiciel.
+Je suis actuellement étudiant en Master of Science Pro - Architecte logiciel développeur d'application à [Epitech](https://www.epitech.eu/) 🎓, et je suis à la recherche d'une alternance passionnante en Informatique.
 
 Pour plus d'infos sur la formation, le [Kit d'Alternance](https://eparcours.eu/epitech-pre-msc-msc-221/) est disponible ici :
 https://eparcours.eu/epitech-pre-msc-msc-221/
