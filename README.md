@@ -20,6 +20,11 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 <!-- Section Projets avec emojis -->
 ## 🔥 Projets Récents
+### Jeux
+- [Kingdom Of Legends](https://github.com/xchebila/KingdomOfLegends): RPG 2D
+- Technologies : Java - LibGDX
+
+  
 ### [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant)
 - Restaurant fictif avec back-office (gestion de commandes et de réservations)
 
@@ -35,8 +40,7 @@ Technologies : Javascript
 
 <!-- Section Objectifs avec emojis -->
 
-### Jeux
-- [Kingdom Of Legends](https://github.com/xchebila/singdomOfLegends): RPG 2D 
+
 
 ## 🎯 Objectifs
 Passionné par l'informatique et enthousiaste à l'idée de commencer ma formation en tant qu'architecte logiciel développeur d'application, mon objectif est de mettre mon expérience et mon désir d'apprendre au service d'une entreprise innovante tout en acquérant de nouvelles connaissances et compétences.
