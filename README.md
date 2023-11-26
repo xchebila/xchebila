@@ -42,7 +42,7 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   BDD : MYSQL
 
-- [MyEZLab](https://github.com/xchebila/myezlab)) :Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
+- [MyEZLab](https://github.com/xchebila/myezlab)) : Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
 
   Technologies : PHP
 
