@@ -21,7 +21,7 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 <!-- Section Projets avec emojis -->
 ## 🔥 Projets Récents
 ### Jeux
-- [Kingdom Of Legends](https://github.com/xchebila/KingdomOfLegends): RPG 2D
+- [The Kingdom Of Legends](https://github.com/xchebila/TheKingdomOfLegends): RPG 2D
 
   Technologies : Java
 
