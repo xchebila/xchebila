@@ -42,8 +42,9 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   BDD : MYSQL
 
-  - [MyEZLab](https://github.com/xchebila/myezlab)) : 
+  - [MyEZLab](https://github.com/xchebila/myezlab)) :Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
 
+    Technologies : PHP
 
 ### Mini jeux
 - [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
