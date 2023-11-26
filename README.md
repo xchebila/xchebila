@@ -42,6 +42,9 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   BDD : MYSQL
 
+  - [MyEZLab](https://github.com/xchebila/MyEzLab) : 
+
+
 ### Mini jeux
 - [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
 - [Rocket](https://github.com/xchebila/rocket) : décollage d'une fusée - [essayer](https://xchebila.github.io/rocket/)
