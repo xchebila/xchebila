@@ -42,7 +42,7 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   BDD : MYSQL
 
-  - [MyEZLab](https://github.com/xchebila/MyEzLab) : 
+  - [MyEZLab](https://github.com/xchebila/myezlab)) : 
 
 
 ### Mini jeux
