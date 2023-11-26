@@ -52,9 +52,6 @@ Technologies : Javascript
 
 
 
-## 🎯 Objectifs
-Passionné par l'informatique et enthousiaste à l'idée de commencer ma formation en tant qu'architecte logiciel développeur d'application, mon objectif est de mettre mon expérience et mon désir d'apprendre au service d'une entreprise innovante tout en acquérant de nouvelles connaissances et compétences.
-
 <!-- Section Contact avec emojis -->
 ## 📫 Contact
-N'hésitez pas à me contacter par e-mail à [xchebila@gmail.com](mailto:xchebiila@gmail.com) pour discuter d'opportunités passionnantes d'alternance dans le domaine du développement et de l'informatique.
+N'hésitez pas à me contacter par e-mail à [xchebila@gmail.com](mailto:xiam.chebila@epitech.eu)
