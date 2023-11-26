@@ -52,6 +52,6 @@ Technologies : Javascript
 
 
 
-<!-- Section Contact avec emojis -->
+<!-- Section Contact avec emojis 
 ## 📫 Contact
-N'hésitez pas à me contacter par e-mail à [xchebila@gmail.com](mailto:xiam.chebila@epitech.eu)
+N'hésitez pas à me contacter par e-mail à [xchebila@gmail.com](mailto:xiam.chebila@epitech.eu)-->
