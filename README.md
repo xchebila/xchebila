@@ -22,7 +22,8 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 ## 🔥 Projets Récents
 ### Jeux
 - [Kingdom Of Legends](https://github.com/xchebila/KingdomOfLegends): RPG 2D
-- Technologies : Java - LibGDX
+  Technologies : Java
+  Frameworks : LibGDX
 
   
 ### [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant)
