@@ -14,9 +14,8 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 <!-- Section Compétences avec emojis -->
 ## 🚀 Compétences
-- Langages de programmation : Javascript, PHP, Python
-- Développement Web : HTML, CSS, JavaScript
-- Frameworks : VueJS, React
+- Langages de programmation : Javascript, PHP, Python, Java
+- Frameworks : VueJS, ReactJs, NodeJs
 
 <!-- Section Projets avec emojis -->
 ## 🔥 Projets Récents
@@ -39,9 +38,9 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 - [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant) : Restaurant fictif avec back-office (gestion de commandes et de réservations)
 
-Technologies : PHP & Javascript
+  Technologies : PHP & Javascript
 
-BDD : MYSQL
+  BDD : MYSQL
 
 ### Mini jeux
 - [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
