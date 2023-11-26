@@ -29,6 +29,14 @@ https://eparcours.eu/epitech-pre-msc-msc-221/
 
 ### Sites
 
+- [My Jobboard](https://github.com/xchebila/my-jobboard) : Jobboard fictif avec back-office (gestion des annonces et des candidatures)
+
+  Technologies : JavaScript
+
+  Frameworks : ReactJS & NodeJS
+
+  BDD : MYSQL
+
 - [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant) : Restaurant fictif avec back-office (gestion de commandes et de réservations)
 
 Technologies : PHP & Javascript
