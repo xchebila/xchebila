@@ -2,7 +2,7 @@
 # 👋 Bonjour, je suis Xiam
 
 <!-- Introduction avec emojis -->
-Je suis actuellement étudiant en Master of Science Pro - Architecte logiciel développeur d'application à [Epitech](https://www.epitech.eu/) en Alternance chez Smart-Consulting 🎓. 
+Je suis actuellement étudiant en Master of Science Pro - Architecte logiciel développeur d'application à [Epitech](https://www.epitech.eu/) en alternance chez Smart-Consulting 🎓. 
 
 
 <!-- Badges avec emojis (facultatif) -->
