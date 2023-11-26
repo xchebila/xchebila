@@ -35,16 +35,19 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
   Frameworks : ReactJS & NodeJS
 
   BDD : MYSQL
+  
 
 - [Fictionnal Restaurant](https://github.com/xchebila/FictionalRestaurant) : Restaurant fictif avec back-office (gestion de commandes et de réservations)
 
   Technologies : PHP & Javascript
 
   BDD : MYSQL
+  
 
-- [MyEZLab](https://github.com/xchebila/myezlab)) : Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
+- [MyEZLab](https://github.com/xchebila/myezlab) : Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
 
   Technologies : PHP
+  
 
 ### Mini jeux
 - [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
