@@ -26,6 +26,12 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   Frameworks : LibGDX
 
+### Mini jeux
+- [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
+- [Rocket](https://github.com/xchebila/rocket) : décollage d'une fusée - [essayer](https://xchebila.github.io/rocket/)
+  
+Technologies : Javascript
+
 ### Sites
 
 - [My Jobboard](https://github.com/xchebila/my-jobboard) : Jobboard fictif avec back-office (gestion des annonces et des candidatures)
@@ -48,17 +54,6 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
   Technologies : PHP
   
-
-### Mini jeux
-- [Dragon Knight](https://github.com/xchebila/Dragon-Knight): combat aléatoire dragon contre chevalier - [essayer](https://xchebila.github.io/Dragon-Knight/)
-- [Rocket](https://github.com/xchebila/rocket) : décollage d'une fusée - [essayer](https://xchebila.github.io/rocket/)
-  
-Technologies : Javascript
-
-<!-- Section Objectifs avec emojis -->
-
-
-
 <!-- Section Contact avec emojis 
 ## 📫 Contact
-N'hésitez pas à me contacter par e-mail à [xchebila@gmail.com](mailto:xiam.chebila@epitech.eu)-->
+N'hésitez pas à me contacter par e-mail à [xiam.chebila@epitech.eu](mailto:xiam.chebila@epitech.eu)-->
