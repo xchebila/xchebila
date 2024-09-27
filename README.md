@@ -4,7 +4,7 @@
 <!-- Introduction avec emojis -->
 Je suis actuellement étudiant en Master of Science Pro - Architecte logiciel développeur d'application à [Epitech](https://www.epitech.eu/) 🎓
 
-Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/).
+Je suis en alternance chez [Voyage Privé](https://www.voyage-prive.com/).
 
 
 <!-- Badges avec emojis (facultatif) -->
