@@ -48,7 +48,8 @@ Technologies : Javascript
   Technologies : PHP & Javascript
 
   BDD : MYSQL
-  
+
+### Soft
 
 - [MyEZLab](https://github.com/xchebila/myezlab) : Simplification du processus de renommage et de compression de dossiers métiers pour le personnel médical.
 
