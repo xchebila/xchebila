@@ -2,7 +2,7 @@
 # 👋 Bonjour, je suis Xiam
 
 <!-- Introduction avec emojis -->
-Je suis actuellement étudiant en Master of Science Pro - Architecte des systèmes d'information à [Epitech](https://www.epitech.eu/) 🎓
+Je suis actuellement étudiant Architecte des systèmes d'information à [Epitech](https://www.epitech.eu/) 🎓
 
 Je suis en alternance chez [Voyage Privé](https://www.voyage-prive.com/).
 
