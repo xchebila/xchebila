@@ -9,7 +9,7 @@ Je suis en alternance chez [Smart-Consulting](https://www.smart-consulting.com/)
 
 <!-- Badges avec emojis (facultatif) -->
 [![Linkedin Badge](https://img.shields.io/badge/-xchebila-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xchebila/)](https://www.linkedin.com/in/xchebila/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-xchebila.github.io/portfolio/-black)](https://xchebila.github.io/portfolio/)
+<!--  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-xchebila.github.io/portfolio/-black)](https://xchebila.github.io/portfolio/) -->
 [![GitHub Follow](https://img.shields.io/github/followers/xchebila?style=social&label=Follow)](https://github.com/xchebila)
 
 <!-- Section Compétences avec emojis -->
