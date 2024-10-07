@@ -2,7 +2,7 @@
 # Hello, I'm Xiam! 👋
 
 <!-- Introduction avec emojis -->
-I'm currently studying Information Systems Architecture at [Epitech](https://www.epitech.eu/) 🎓 and working as a software developer apprentice at [Voyage Privé](https://www.voyage-prive.com/).
+I'm currently studying Information Systems Architecture at [Epitech](https://www.epitech.eu/) and working as a software developer apprentice at [Voyage Privé](https://www.voyage-prive.com/).
 
 
 <!-- Badges avec emojis (facultatif) -->
@@ -11,7 +11,7 @@ I'm currently studying Information Systems Architecture at [Epitech](https://www
 [![GitHub Follow](https://img.shields.io/github/followers/xchebila?style=social&label=Follow)](https://github.com/xchebila)
 
 <!-- Section Compétences avec emojis -->
-## 🚀 Compétences
+## 🚀 Skills
 - Programming Languages: JavaScript, PHP, Python, Java
 
 <!--
