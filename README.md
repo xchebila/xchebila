@@ -15,8 +15,6 @@ Je suis en développeur en alternance chez [Voyage Privé](https://www.voyage-pr
 <!-- Section Compétences avec emojis -->
 ## 🚀 Compétences
 - Langages de programmation : Javascript, PHP, Python, Java
-- Frameworks : VueJS, ReactJs, NodeJs
-
 
 <!--
   <!-- Section Projets avec emojis -->
