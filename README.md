@@ -4,7 +4,7 @@
 <!-- Introduction avec emojis -->
 Je suis actuellement étudiant Architecte des systèmes d'information à [Epitech](https://www.epitech.eu/) 🎓
 
-Je suis en développeur alternance chez [Voyage Privé](https://www.voyage-prive.com/).
+Je suis en développeur en alternance chez [Voyage Privé](https://www.voyage-prive.com/).
 
 
 <!-- Badges avec emojis (facultatif) -->
