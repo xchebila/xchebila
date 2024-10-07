@@ -17,8 +17,10 @@ Je suis en alternance chez [Voyage Privé](https://www.voyage-prive.com/).
 - Langages de programmation : Javascript, PHP, Python, Java
 - Frameworks : VueJS, ReactJs, NodeJs
 
-<!-- Section Projets avec emojis -->
-## 🔥 Projets Récents
+
+<!--
+  <!-- Section Projets avec emojis -->
+  <!--## 🔥 Projets Récents
 ### Jeux
 - [The Kingdom Of Legends](https://github.com/xchebila/TheKingdomOfLegends): RPG 2D
 
@@ -58,3 +60,4 @@ Technologies : Javascript
 <!-- Section Contact avec emojis 
 ## 📫 Contact
 N'hésitez pas à me contacter par e-mail à [xiam.chebila@epitech.eu](mailto:xiam.chebila@epitech.eu)-->
+
