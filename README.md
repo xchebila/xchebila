@@ -2,7 +2,7 @@
 # Hello, I'm Xiam! 👋
 
 <!-- Introduction avec emojis -->
-I'm currently studying Information Systems Architecture at [Epitech](https://www.epitech.eu/) and working as a software developer apprentice at [Voyage Privé](https://www.voyage-prive.com/).
+I'm currently studying Information Systems Architecture at [Epitech](https://www.epitech.eu/) 🎓 and working as a software developer apprentice at [Voyage Privé](https://www.voyage-prive.com/)🌍.
 
 
 <!-- Badges avec emojis (facultatif) -->
