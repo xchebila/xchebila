@@ -1,10 +1,8 @@
 <!-- Titre avec emoji -->
-# 👋 Bonjour, je suis Xiam
+# Hello, I'm Xiam! 👋
 
 <!-- Introduction avec emojis -->
-Je suis actuellement étudiant Architecte des systèmes d'information à [Epitech](https://www.epitech.eu/) 🎓
-
-Je suis en développeur en alternance chez [Voyage Privé](https://www.voyage-prive.com/).
+I'm currently studying Information Systems Architecture at [Epitech](https://www.epitech.eu/) 🎓 and working as a software developer apprentice at [Voyage Privé](https://www.voyage-prive.com/).
 
 
 <!-- Badges avec emojis (facultatif) -->
@@ -14,7 +12,7 @@ Je suis en développeur en alternance chez [Voyage Privé](https://www.voyage-pr
 
 <!-- Section Compétences avec emojis -->
 ## 🚀 Compétences
-- Langages de programmation : Javascript, PHP, Python, Java
+- Programming Languages: JavaScript, PHP, Python, Java
 
 <!--
   <!-- Section Projets avec emojis -->
