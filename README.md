@@ -12,7 +12,7 @@
 
 <!-- Section Compétences avec emojis -->
 ## 🚀 Skills
-- Programming Languages: JavaScript, PHP, Python, Java
+- Programming Languages: JavaScript, PHP, Python, Java, Go
 
 <!--
   <!-- Section Projets avec emojis -->
